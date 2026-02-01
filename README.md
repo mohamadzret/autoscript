@@ -35,7 +35,7 @@ screen -r fn
 | **SOCKS5**               | 1080, 443, 2443            |
 | **SSH WS TLS**           | 443, 2443                  |
 | **SSH WS HTTP**          | 80, 2080, 2082             |
-| **SSH HTTP / Squid Proxy **          | 8080             |
+| **SSH HTTP / Squid Proxy**          | 8080             |
 | **SLOWDNS**              | 5300, 53                   |
 
 ---
